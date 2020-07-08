@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Derivado de "Problemas Ambientales"</title>
+        <style>
+            .titulo{
+            float:middle;
+            }
+            h1{
+             border:double;}
+            }
+            .fotos{
+            float:right;
+            top:800px;
+            }
+            .lado{width:30%;
+            background-color:rgb(17, 219, 195);
+            float:left;
+            margin-right:35px;
+            font-family:monospace;
+            }
+            #texto{
+            float:left;
+            font-family:monospace;
+            }
+            h2 { color: green;}
+            p { color: red;}
+            <font color=¨green¨> </font>
+
+        </style>
+    </head>
+    <body>
+    <h1>Problemas Ambientales</h1>
+    <div class="lado">
+    <h2>Deforestacion</h2>
+     <p id="texto">La deforestación es la pérdida de bosques y selvas debido al impacto de actividades humanas o causas naturales.México ocupa uno de los primeros lugares en tasas de deforestación en el mundo. No hay una estimación exacta, pero se calcula que la tasas de deforestación a nivel nacional podría ser de hasta 1.98 millones de hectáreas por año, de acuerdo con datos recopilados por la Cámara de Diputados en 2017. Esto debería importarnos porque significa al menos tres cosas graves: mayor contaminación, mayor desigualdad social y menos biodiversidad.
+
+Los bosques representan una fuente de alimentos, medicinas y combustible para más de mil millones de personas, entre las que están las de mayor pobreza, y son un arma central de toda la población para combatir el cambio climático y proteger los suelos y el agua. </p>
+    </div>
+        
+  
+
+    <div class="fotos">
+    <img src="https://1.bp.blogspot.com/-r5LI4Bd03mg/VEapCDbL9tI/AAAAAAAABi4/T7fmdXuZiN0/s1600/Nota3-Mie30.11.11.jpg"
+    width="500" height="325">
+    
+</div>
+
+<h2>Contaminacion Ambiental</h2>
+<div class¨lado¨>
+<p id="texto"> Se denomina contaminación ambiental a la presencia de componentes nocivos (ya sean químicos, físicos o biológicos) en el medio ambiente (entorno natural y artificial), que supongan un perjuicio para los seres vivos que lo habitan, incluyendo a los seres humanos. La contaminación ambiental está originada principalmente por causas derivadas de la actividad humana, como la emisión a la atmósfera de gases de efecto invernadero o la explotación desmedida de los recursos naturales. </p>
+<p id=¨texto¨> <li>Tala excesiva de árboles.<li>
+<li>Emisiones y vertidos industriales a la atmósfera y a la hidrosfera.<li>
+<li>Uso indiscriminado de plásticos y otros materiales derivados del petróleo.<li>
+<li>Liberación de plásticos y objetos no biodegradables en espacios naturales<li> </p>
+  </div>      
+<div class=¨fotos¨>
+<img src="https://t2.ev.ltmcdn.com/es/posts/6/3/3/que_es_la_contaminacion_ambiental_y_sus_tipos_1336_orig.jpg"
+    width="500" height="325">
+    </body>
+</html>
